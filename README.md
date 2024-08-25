@@ -49,4 +49,5 @@ Here's a sample ReadMe file:
 <strong>This project is licensed under the MIT License.</strong>
 
 <h3>Contact:</h3>
+<p> For any questions or concerns, please email us at [mustygenius22@gmail.com or call 08146245372]. Happy baking!</p>
 
